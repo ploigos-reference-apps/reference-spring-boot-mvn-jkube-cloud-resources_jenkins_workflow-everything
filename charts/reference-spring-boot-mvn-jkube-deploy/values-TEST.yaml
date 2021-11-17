@@ -1,5 +1,5 @@
 replicaCount: 1
 image:
-  tag: registry-internal-nexus.apps.tssc.rht-set.com/ploigos-ref/ref-spring-jkube-jenkins-eve-hello:1.4.0-main # written by ploigos-step-runner
+  tag: registry-internal-nexus.apps.tssc.rht-set.com/ploigos-ref/ref-spring-jkube-jenkins-eve/hello@sha256:ea197aa97689d4fb7824eb4dabb12b7e863c06da2ff61fd05bccb733e7c4c5b0 # written by ploigos-step-runner
 route:
   hostname: spring-boot-hello-jenkins-typ.test.apps.tssc.rht-set.com
